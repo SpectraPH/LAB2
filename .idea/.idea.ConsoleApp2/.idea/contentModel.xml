@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\petr2\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\petr2\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ConsoleApp2.-1470860766.00" t="ExcludeRecursive" />
+    <e p="C:\Users\petr2\source\repos\ConsoleApp2" t="IncludeFlat">
+      <e p="ConsoleApp2" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleApp2.csproj" t="IncludeRecursive" />
+        <e p="Coord.cs" t="Include" />
+        <e p="elements" t="Include">
+          <e p="Coin.cs" t="Include" />
+          <e p="direction.cs" t="Include" />
+          <e p="Door.cs" t="Include" />
+          <e p="Element.cs" t="Include" />
+          <e p="Emptiness.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="Key.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Trap.cs" t="Include" />
+          <e p="Wall.cs" t="Include" />
+        </e>
+        <e p="Field.cs" t="Include" />
+        <e p="Matrix.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Ranges.cs" t="Include" />
+      </e>
+      <e p="ConsoleApp2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
